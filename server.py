@@ -3,7 +3,7 @@ from flask import Flask, request
 import openai
 
 # Replace YOUR_API_KEY with your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 # Set the model and prompt
 model_engine = "text-davinci-003"
 server = Flask(__name__)
